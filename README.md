@@ -26,7 +26,6 @@ What I focus on:
 | **Repair Lead Time Optimization** | Operations Analytics | Two-level LightGBM on 1.6M records · Holdout AUC 0.809 · 28-cell priority matrix targeting ~85K improvable cases annually |
 | **Quant XGBoost Stock Returns** | Quantitative Finance | 25-year out-of-sample backtest · Sharpe 2.53 · alpha t-stat 13.24 · monthly alpha +4.36% |
 | **Walmart Big Data Architecture** | Data Engineering | Multi-DB stack (MySQL + MongoDB + Hive) · Streamlit sustainability recommender |
-| **Bank Campaign Optimization** | Marketing ML | $310K expected profit vs. $46K baseline (6.7×) |
 
 ## 📫 Connect
 
