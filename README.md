@@ -22,12 +22,12 @@ What I focus on:
 
 | Project | Domain | Highlight |
 |---|---|---|
-| **CTR Prediction Pipeline** | Ad-tech / Personalization | Production-flavored ML pipeline on 30M+ observations · Log loss 0.382 (11% improvement) · feature hashing at 2^22 |
-| **Repair Lead Time Optimization** | Operations Analytics | Two-level LightGBM on 1.6M records · AUC 0.809 · 20-cell priority matrix targeting ~85K improvable cases annually |
-| **Quant XGBoost Stock Returns** | Quantitative Finance | 27-year backtest · Sharpe 2.53 · t-stat 13.24 · monthly alpha +4.36% |
+| **CTR Prediction Pipeline** | Ad-tech / Personalization | Production-flavored ML pipeline on 32M observations · Log loss 0.382 (11.4% improvement) · feature hashing at 2²² |
+| **Repair Lead Time Optimization** | Operations Analytics | Two-level LightGBM on 1.6M records · Holdout AUC 0.809 · 28-cell priority matrix targeting ~85K improvable cases annually |
+| **Quant XGBoost Stock Returns** | Quantitative Finance | 25-year out-of-sample backtest · Sharpe 2.53 · alpha t-stat 13.24 · monthly alpha +4.36% |
 | **Walmart Big Data Architecture** | Data Engineering | Multi-DB stack (MySQL + MongoDB + Hive) · Streamlit sustainability recommender |
 | **Bank Campaign Optimization** | Marketing ML | $310K expected profit vs. $46K baseline (6.7×) |
 
 ## 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/smriti-goyal-) · smritie.goyal@gmail.com · smriti.goyal@emory.edu 
+[LinkedIn](https://linkedin.com/in/smriti-goyal-) · smritie.goyal@gmail.com · smriti.goyal@emory.edu
