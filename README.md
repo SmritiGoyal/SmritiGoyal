@@ -23,10 +23,9 @@ What I focus on:
 | Project | Domain | Highlight |
 |---|---|---|
 | **CTR Prediction Pipeline** | Ad-tech / Personalization | Production-flavored ML pipeline on 32M observations · Log loss 0.382 (11.4% improvement) · feature hashing at 2²² |
-| **Repair Lead Time Optimization** | Operations Analytics | Two-level LightGBM on 1.6M records · Holdout AUC 0.809 · 28-cell priority matrix targeting ~85K improvable cases annually |
+| **Repair Lead Time Optimization** | Operations Analytics | Two-level LightGBM on 1.6M records · Holdout AUC 0.806 · 28-cell priority matrix targeting ~33K improvable cases/yr |
 | **Subrogation Risk Prediction** | Insurance / Classification | 14-model comparison + 7-ensemble bake-off on 18K claims · 5-fold CV F1 = 0.60 (Tree Super Stack) · 6th of 44 teams |
-| **Quant XGBoost Stock Returns** | Quantitative Finance | 25-year out-of-sample backtest · Sharpe 2.53 · alpha t-stat 13.24 · monthly alpha +4.36% |
-| **Big Data Architecture** | Data Engineering | Multi-DB stack (MySQL + MongoDB + Hive) · Streamlit sustainability recommender |
+| **Quant XGBoost Stock Returns** | Quantitative Finance | 25-year out-of-sample backtest · Sharpe 1.03 · monthly CAPM alpha +2.19% (t=6.08) |
 
 ## 📫 Connect
 
